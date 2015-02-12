@@ -1,0 +1,24 @@
+h1,h2,h3,h4 {
+	text-align: center;
+	}
+.centered {
+	text-align: center;
+}
+.container {
+	width: 800px;
+	
+}
+.content {
+	height: 500px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 20px;
+	
+	
+}
+.message {
+	height: auto;
+	border: 1px  solid red;
+	padding: 10px;
+	margin: 8px;
+}
