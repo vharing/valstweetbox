@@ -1,3 +1,6 @@
+//this is a change for git
+
+
 var messages = {
 	getAllMessages: function() {
 		self.clearMessages();
